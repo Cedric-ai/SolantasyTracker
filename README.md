@@ -7,6 +7,7 @@ It shows all sales of a collection in a plot + all active listings on the second
 
 # How to use?
 Download the chrome driver from https://chromedriver.chromium.org/ (make sure to use the right version that fits your Chrome browser).
+Download the programm itself. Make sure it's the newest release: https://github.com/Cedric-ai/SolantasyTracker/releases
 
 Start the programm and select the chromedriver! Then click the collection you want to analyse. 
 Then you have to wait. The analysis can take up to 20 minutes. There is a progress bar where you can check the progress.
