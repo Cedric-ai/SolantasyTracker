@@ -8,7 +8,7 @@ from tkinter import filedialog as fd
 
 import sys, os
 
-os.chdir(sys._MEIPASS)
+#os.chdir(sys._MEIPASS)
 width = 30
 filename = ""
 
